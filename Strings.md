@@ -2,4 +2,4 @@
 
 - [ ] Count Binary Substrings — LC 696
 - [ ] Shortest and Lexicographically smallest beautiful string — LC 2904
-- [ ] 
+- [ ] Longest valid parenthesis - LC 32
