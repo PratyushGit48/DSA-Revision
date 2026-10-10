@@ -1,1 +1,2 @@
 - [ ] Longest substring without any character - LC 3
+- [ ] Binary Subarray with sum - LC 930 after that try LC 1248
